@@ -9,13 +9,14 @@ HomePage
 ## Structure des pages
 
 HomePage
-- 
+
 - Header with Name and social media
 - ProjectGrid with ImageCards (ImageCards on hover blur background and Display Project name) on click page slide effect [Right to left]
 - AboutMe {image, name, paragraphe}
 - Footer {Copyright and social media}
 
 ProjectPage
+
 - Back Arrow (one click slide effect [Left to right])
 - Project Name
 - Project Desciption
